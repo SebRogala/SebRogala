@@ -25,6 +25,12 @@ Multi-tenant SaaS for Polish education businesses — 3,700+ tests, PHPStan leve
 - **Critical thinking on AI output** — discovered AI silently summarized 491 lines into 122 during a migration; built a fidelity-auditor to catch it before anyone else shipped that bug
 - **Context engineering** — designing the information environment agents operate in, not just the prompts
 
+## Open source
+
+- [veiset/poe-vendor-string#364](https://github.com/veiset/poe-vendor-string/pull/364) — feature PR adding prefix/suffix indicators and grouping to the Maps page of a well-known Path of Exile community tool. Introduced the first tests in the repo (9 tests / 2 suites), a RePoE data-fetch pipeline, and drift-detection coverage. Maintainer validated the need (planning to add the field upstream) and agreen on the frontend — will invite me back to finish it once the upstream data model is in place.
+- [obra/superpowers#520](https://github.com/obra/superpowers/pull/520) — proposed smart question batching with ASCII mockup previews for the brainstorming skill in Jesse Vincent's Claude Code plugin framework. Empirically tested (6→3 AskUserQuestion calls). Closed after v5 took a different approach (browser-based visual companion).
+- [anthropics/claude-code#26423](https://github.com/anthropics/claude-code/issues/26423) — detailed bug report on `PreToolUse` hook `systemMessage` not surfacing to the assistant after a block. Closed as "not planned" but captures a real UX gap in hook-driven self-correction.
+
 ## Speaking
 
 - **rg-dev Meetup (future, planned for Aug 2026)** — *AI Migration Audit: When AI Summarizes Instead of Migrates*
