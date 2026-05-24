@@ -1,14 +1,14 @@
 # Sebastian Rogala
 
-AI-native product engineer. Context engineering, agent orchestration, structural verification.
+AI-native product engineer. I build agent orchestration plus the audit layer most teams skip — gates that catch the work drifting off-spec before it lands in main.
 
-→ **[sebrogala.dev](https://sebrogala.dev)** — projects, memos, decisions
+→ Projects and memos: **[sebrogala.dev](https://sebrogala.dev)**
 
 ## Active work
 
 - **Pipeforge** — pipeline orchestration for AI-directed delivery
 - **Education SaaS** — multi-tenant platform, launch customer in production
-- **ProfitOfExile** — real-time PoE lab profit analysis · Go + SvelteKit + Tauri · [profitofexile.top](https://profitofexile.top)
+- **ProfitOfExile** — real-time profit analysis for Path of Exile lab farming. Go + SvelteKit + Tauri. [profitofexile.top](https://profitofexile.top)
 
 ## Reach
 
