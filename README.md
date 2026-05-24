@@ -13,4 +13,4 @@ AI-native product engineer. I build agent orchestration plus the audit layer mos
 ## Reach
 
 - sebrogala@gmail.com
-- [linkedin.com/in/seb-rogala](https://linkedin.com/in/seb-rogala)
+- [linkedin.com/in/sebrogala](https://linkedin.com/in/sebrogala)
