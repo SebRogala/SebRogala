@@ -1,16 +1,3 @@
-# Sebastian Rogala
+AI-First Software Engineer. AI agents build the software. I direct them and verify it works.
 
-AI-native product engineer. I build agent orchestration plus the audit layer most teams skip — gates that catch the work drifting off-spec before it lands in main.
-
-→ Projects and memos: **[sebrogala.dev](https://sebrogala.dev)**
-
-## Active work
-
-- **Pipeforge** — pipeline orchestration for AI-directed delivery
-- **Education SaaS** — multi-tenant platform, launch customer in production
-- **ProfitOfExile** — real-time profit analysis for Path of Exile lab farming. Go + SvelteKit + Tauri. [profitofexile.top](https://profitofexile.top)
-
-## Reach
-
-- sebrogala@gmail.com
-- [linkedin.com/in/sebrogala](https://linkedin.com/in/sebrogala)
+[sebrogala.dev](https://sebrogala.dev) · [How my agent pipeline works](https://sebrogala.dev/projects/pipeforge) · [Talks](https://sebrogala.dev/talks) · [LinkedIn](https://www.linkedin.com/in/sebrogala) · [sebrogala@gmail.com](mailto:sebrogala@gmail.com)
